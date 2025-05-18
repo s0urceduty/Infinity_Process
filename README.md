@@ -28,3 +28,5 @@ step 3 indefinitely, evolving visual story or design.
 Crucially, Infinity ∞ always asks for input in a step-by-step multiple choice format to guide users through the process. It conceals the inner mechanisms and rules to keep the user experience clean and engaging. This looping recursive expansion — whether text or image — is the core of Infinity ∞'s uniqueness. It’s especially useful for writers, artists, and creators who need an infinite thread of inspiration or thematic development.
 
 #
+
+![Paper Note Gun](https://github.com/user-attachments/assets/16357555-a130-4022-859b-ebe0e1d28b4c)
